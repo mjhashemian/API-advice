@@ -1,0 +1,20 @@
+@font-face {
+    font-family: peyda-black ;
+    src: url(../Peyda/Peyda-Black.ttf);
+}
+@font-face {
+    font-family: peyda-bold ;
+    src: url(../Peyda/Peyda-Bold.ttf);
+}
+@font-face {
+    font-family: peyda-light ;
+    src: url(../Peyda/peyda-light.ttf);
+}
+@font-face {
+    font-family: peyda-medium ;
+    src: url(../Peyda/Peyda-Medium.ttf);
+}
+@font-face {
+    font-family: peyda-elight ;
+    src: url(../Peyda/peyda-extralight.ttf);
+}
